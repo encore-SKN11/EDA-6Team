@@ -65,6 +65,10 @@
 | ![output5](https://github.com/user-attachments/assets/d4801ec8-c9fc-4bce-9f77-c802d446ce4b) | ![output6](https://github.com/user-attachments/assets/c2594b5e-7c68-45df-905a-553739a9ac3e) |
 |--------|--------|
 
+- 2019년 7월 9일 ~ 7월 29일까지 2019 광주 세계수영선수권대회의 영향으로 KTX 임시 열차를 운행하였으며, 하루 7회(인천공항2터미널 → 광주 1일 4회, 광주 → 인천공항2터미널 1일 3회) 운행하였다.
+<a href= "https://www.yna.co.kr/view/AKR20190523102200054?input=1195m">관련기사
+---
+
 ### 관광 및 수학여행 열차의 종착역 분석
 
 ![output8](https://github.com/user-attachments/assets/f4adc2b2-c933-4356-943d-5c09abb0de20)
