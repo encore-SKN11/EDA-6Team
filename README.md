@@ -78,7 +78,7 @@
   
   | 동해산타열차 노선표 |
   |--------|
-  |<img src='![DgiDlfaSOG6g](https://github.com/user-attachments/assets/63a840ce-f867-4ba6-ab25-da3ab73d4f9a)' width='500' height='352' />|
+  |<img src='![DgiDlfaSOG6g](https://github.com/user-attachments/assets/9a646c65-cbb4-4db5-93d2-b6e520fed144)' width='500' height='352' />|
 
 
 
