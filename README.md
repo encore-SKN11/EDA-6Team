@@ -56,6 +56,24 @@
 
 ---
 
+|요일별 기차 운행 횟수 분석| 
+|--------|
+| ![output4](https://github.com/user-attachments/assets/c1be661c-b1cd-4990-9e03-c2075628eaa9) |
+
+---
+
+|요일별 기차 운행 횟수 분석| 
+|--------|
+| ![output4](https://github.com/user-attachments/assets/c1be661c-b1cd-4990-9e03-c2075628eaa9) |
+
+---
+
+|연도별 / 월별 기차 운행 횟수 분석| 
+|--------|
+| ![output7](https://github.com/user-attachments/assets/9033971f-2bb2-448e-aefa-c5511f568302) |
+
+---
+
 
 
 
