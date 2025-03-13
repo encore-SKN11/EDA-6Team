@@ -61,6 +61,26 @@
 
 ---
 
+### 기차가 많이 출발하는 역 순위
+
+![output9](https://github.com/user-attachments/assets/31c91d50-d138-4299-b45f-dab5f3ee831c)
+
+
+---
+
+### 열차가 많이 종착하는 역 순위
+
+![output10](https://github.com/user-attachments/assets/05203c0d-55ec-4508-aa75-5eade7a73b5c)
+
+
+---
+
+### 가장 많이 운행되는 노선
+
+![output11](https://github.com/user-attachments/assets/0c5dae12-57d6-4234-952f-f73502e107f4)
+
+---
+
 ### '공항' 키워드 필터링으로 도출한 운행 분석
 | ![output5](https://github.com/user-attachments/assets/d4801ec8-c9fc-4bce-9f77-c802d446ce4b) | ![output6](https://github.com/user-attachments/assets/c2594b5e-7c68-45df-905a-553739a9ac3e) |
 |--------|--------|
@@ -79,13 +99,6 @@
   | 동해산타열차 노선표 |
   |--------|
   | ![DgiDlfaSOG6g](https://github.com/user-attachments/assets/af9ae053-8d60-454d-8ed3-bd7afdef0495) |
-
-  
-  
-
-
-
-
 
 
 
