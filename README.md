@@ -31,7 +31,33 @@
  - 분석 결과를 바탕으로 코레일 열차 운행 트렌드에 대한 해석 제공
 운영 효율성 개선 및 서비스 향상을 위한 시사점 도출
 
+## 데이터 전처리 과정
+### 1. 데이터 병합
+![image](https://github.com/user-attachments/assets/b97c94f6-cd1a-47b6-b501-b403d7880102)
+- 2019, 2020, 2021년도 철도 운행 데이터를 컬럼명에 맞게 병합하여 산출
 
+### 2. 컬럼명 변경
+![image](https://github.com/user-attachments/assets/a652f53c-75bf-4767-9bd4-1c8aa7f562da)
+- SQL 물리설계 컬럼명으로 되어있던 컬럼명을 보다 직관적인 문자로 변경하고 저장
+
+### 3. 결측값 확인 및 제거, 필요 데이터로만 분류
+![image](https://github.com/user-attachments/assets/2d92c993-9c5e-4013-968b-ad49845d0c77)
+![image](https://github.com/user-attachments/assets/4e302ee3-d15a-486a-b982-f2271b2a769f)
+- 결측치를 너무 많이 가지고 있어 데이터로서의 의미가 없는 컬럼 삭제 및 필요가 없는 컬럼 삭제
+
+### 4. 코드 정의서를 참고하여 단축어나 기호가 아닌 직관적인 레이블 명으로 변경
+![image](https://github.com/user-attachments/assets/0d9e4c51-02c9-4ba2-9fb3-8e81598912da)
+- 레이블명을 코드 정의서를 확인하여 직관적으로 바꾸고, 단순 문자열 값으로 되어있던 날짜 데이터를 datetime으로 알맞게 형변환
+
+### 5. 데이터 셋의 최종 결측치 확인과 이상치 확인
+![image](https://github.com/user-attachments/assets/4f628fb3-47ca-4f94-badf-b02b27601d34)
+- 결측치가 정리 되었는지 최종적으로 확인하고, 레이블명 변경 및 형 변환 후 나타난 이상치 삭제
+
+### 6. 데이터 분석을 위한 컬럼 추가
+![image](https://github.com/user-attachments/assets/95270062-4718-4b16-af67-da79d96f7247)
+- 원할한 데이터 분석을 위해 운행일자 컬럼 datetime 값을 기반으로 요일을 산출 데이터의 컬럼으로 추가
+---
+## 데이터 분석
 ---
 ### 열차 종류별 운행 횟수 통계 시각화
 
