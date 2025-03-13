@@ -89,6 +89,15 @@
 <a href= "https://www.yna.co.kr/view/AKR20190523102200054?input=1195m">관련기사
 ---
 
+### 매주 1회 운행하는 장병열차 데이터 도출
+![army](https://github.com/user-attachments/assets/520ac3e2-f87d-4c81-a497-1aff7e4079e7)
+- '연무'역 키워드를 통한 필터링
+
+| ![output_army1](https://github.com/user-attachments/assets/a5627568-ad30-456c-8f1f-994511370d70) | ![output_army2](https://github.com/user-attachments/assets/2c42631a-7e6f-466f-b719-5b3626a1fc84) |
+|--------|--------|
+
+
+
 ### 관광 및 수학여행 열차의 종착역 분석
 
 ![output8](https://github.com/user-attachments/assets/f4adc2b2-c933-4356-943d-5c09abb0de20)
