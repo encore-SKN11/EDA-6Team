@@ -74,6 +74,9 @@
 ![output8](https://github.com/user-attachments/assets/f4adc2b2-c933-4356-943d-5c09abb0de20)
 
 <a href= "https://namu.wiki/w/%EA%B4%80%EA%B4%91%EC%97%B4%EC%B0%A8/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD#s-3.1">관광열차
+- 출발역 / 도착역 기준으로 결과를 산출하다 보니 바다열차, 동해산타열차가 출도착 하는 강릉역이 상위 순위로 출력됨.
+- 동해산타열차 노선표
+- ![DgiDlfaSOG6g](https://github.com/user-attachments/assets/a950370e-6559-4d80-87f0-1f411695aed5)
 
 
 
