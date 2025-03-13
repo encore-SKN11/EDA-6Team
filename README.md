@@ -37,38 +37,37 @@
 
 ![output](https://github.com/user-attachments/assets/aeaa986e-3bad-4f9f-8204-c31b85e4c367)
 
-
-
-
 ---
 ### 출발 시간대별 운행 통계
  ![output2](https://github.com/user-attachments/assets/d175af62-84c6-41d6-81eb-0246b1479174)
 
 ---
 
-# |시간대별 상행 / 하행 운행 횟수 분석| 
-|--------|
-| ![output3](https://github.com/user-attachments/assets/0befbaa9-6690-4406-9b0b-1907d28a11ce) |
+### 시간대별 상행 / 하행 운행 횟수 분석 
+
+ ![output3](https://github.com/user-attachments/assets/0befbaa9-6690-4406-9b0b-1907d28a11ce) 
 
 ---
 
-|요일별 기차 운행 횟수 분석| 
-|--------|
-| ![output4](https://github.com/user-attachments/assets/c1be661c-b1cd-4990-9e03-c2075628eaa9) |
+### 요일별 기차 운행 횟수 분석
+
+ ![output4](https://github.com/user-attachments/assets/c1be661c-b1cd-4990-9e03-c2075628eaa9) 
 
 ---
 
-|요일별 기차 운행 횟수 분석| 
-|--------|
-| ![output4](https://github.com/user-attachments/assets/c1be661c-b1cd-4990-9e03-c2075628eaa9) |
+### 연도별 / 월별 기차 운행 횟수 분석 
+
+ ![output7](https://github.com/user-attachments/assets/9033971f-2bb2-448e-aefa-c5511f568302)
 
 ---
 
-|연도별 / 월별 기차 운행 횟수 분석| 
-|--------|
-| ![output7](https://github.com/user-attachments/assets/9033971f-2bb2-448e-aefa-c5511f568302) |
+### '공항' 키워드 필터링으로 도출한 운행 분석
+| ![output5](https://github.com/user-attachments/assets/d4801ec8-c9fc-4bce-9f77-c802d446ce4b) | ![output6](https://github.com/user-attachments/assets/c2594b5e-7c68-45df-905a-553739a9ac3e) |
+|--------|--------|
 
----
+### 관광 및 수학여행 열차의 종착역 분석
+
+![output8](https://github.com/user-attachments/assets/f4adc2b2-c933-4356-943d-5c09abb0de20)
 
 <a href= "https://namu.wiki/w/%EA%B4%80%EA%B4%91%EC%97%B4%EC%B0%A8/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD#s-3.1">관광열차
 
