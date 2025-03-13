@@ -1,7 +1,7 @@
 # SKN-11st EDA-6Team
 
 ---
-# 팀소개
+# 팀소개 🐮🐶
 
  
 | ![20220105_63IXRT](https://github.com/user-attachments/assets/cf48814d-cc8d-4e22-9ded-d78fc9fe3111) | ![KTX_SANCHEON](https://github.com/user-attachments/assets/7a026612-7b39-4d9a-8536-254478a805fa) | ![EUM](https://github.com/user-attachments/assets/80406ee9-5060-4fd4-ae42-1bf1968186cd) |
