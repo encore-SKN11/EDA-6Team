@@ -34,8 +34,8 @@
 
 ---
 ### 열차 종류별 운행 횟수 통계 시각화
-|--------|
-|![output](https://github.com/user-attachments/assets/aeaa986e-3bad-4f9f-8204-c31b85e4c367)|
+
+|![output](https://github.com/user-attachments/assets/aeaa986e-3bad-4f9f-8204-c31b85e4c367) |
 
 
 
