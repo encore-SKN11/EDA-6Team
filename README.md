@@ -3,11 +3,11 @@
 
 ---
 # 팀소개
----
+
  
 | ![20220105_63IXRT](https://github.com/user-attachments/assets/cf48814d-cc8d-4e22-9ded-d78fc9fe3111) | ![KTX_SANCHEON](https://github.com/user-attachments/assets/7a026612-7b39-4d9a-8536-254478a805fa) | ![KTX_EUM](https://github.com/user-attachments/assets/5f39b8b5-5252-42f9-a53b-1ebbc4433afd) |
 |--------|--------|-------|
-| 안종현 | 김상익 | 정민호 |
+| **안종현** | **김상익** | **정민호** |
 
 
 
