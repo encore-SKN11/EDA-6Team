@@ -37,15 +37,17 @@
 
 
 ---
-|![output](https://github.com/user-attachments/assets/aeaa986e-3bad-4f9f-8204-c31b85e4c367)|
-|--------|
 |열차 종류별 운행 횟수 통계 시각화|
+|--------|
+|![output](https://github.com/user-attachments/assets/aeaa986e-3bad-4f9f-8204-c31b85e4c367)|
+
+
 
 ---
-
-| ![output2](https://github.com/user-attachments/assets/d175af62-84c6-41d6-81eb-0246b1479174) |
-|--------|
 |출발 시간대별 운행 통계|
+|--------|
+| ![output2](https://github.com/user-attachments/assets/d175af62-84c6-41d6-81eb-0246b1479174) |
+
 ---
 
 
