@@ -36,6 +36,17 @@
 운영 효율성 개선 및 서비스 향상을 위한 시사점 도출
 
 
+---
+| ![output](https://github.com/user-attachments/assets/aeaa986e-3bad-4f9f-8204-c31b85e4c367) |
+| 열차 종류별 운행 횟수 통계 시각화 |
+---
+
+| ![output2](https://github.com/user-attachments/assets/d175af62-84c6-41d6-81eb-0246b1479174) |
+| 출발 시간대별 운행 통계 |
+
+
+
+
 
 ---
 ### 무궁화호 감축 뉴스
