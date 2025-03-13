@@ -114,9 +114,11 @@
 ---
 ### 무궁화호 감축 뉴스
 
-<a href= "https://www.idomin.com/news/articleView.html?idxno=770462"> 뉴스1
-<a href= "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002758695&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"> 뉴스2
-<a href= "https://imnews.imbc.com/replay/2022/nwdesk/article/6396256_35744.html"> 뉴스3
+<a href= "https://www.idomin.com/news/articleView.html?idxno=770462">|뉴스1|
+
+<a href= "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002758695&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news">|뉴스2|
+
+<a href= "https://imnews.imbc.com/replay/2022/nwdesk/article/6396256_35744.html">|뉴스3|
 
 
 ---
