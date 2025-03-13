@@ -1,5 +1,4 @@
-**EDA 미니프로젝트 개요**
-# EDA-6Team
+# SKN-11st EDA-6Team
 
 ---
 # 팀소개
