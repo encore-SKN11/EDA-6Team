@@ -34,3 +34,12 @@
 
  - 분석 결과를 바탕으로 코레일 열차 운행 트렌드에 대한 해석 제공
 운영 효율성 개선 및 서비스 향상을 위한 시사점 도출
+
+
+
+---
+### 무궁화호 감축 뉴스
+
+https://www.idomin.com/news/articleView.html?idxno=770462
+https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002758695&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+https://imnews.imbc.com/replay/2022/nwdesk/article/6396256_35744.html
