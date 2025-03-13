@@ -5,7 +5,7 @@
 # 팀소개
 ---
  
- | ![20220105_63IXRT](https://github.com/user-attachments/assets/cf48814d-cc8d-4e22-9ded-d78fc9fe3111) | ![KTX_SANCHEON](https://github.com/user-attachments/assets/b7430573-5d7b-43b0-97ac-24d4b1e546b6) | ![KTX_EUM](https://github.com/user-attachments/assets/dea6aa73-3027-4500-beb1-d9dbfcf9ef6e)
+| ![20220105_63IXRT](https://github.com/user-attachments/assets/cf48814d-cc8d-4e22-9ded-d78fc9fe3111) | ![KTX_SANCHEON](https://github.com/user-attachments/assets/b7430573-5d7b-43b0-97ac-24d4b1e546b6) | ![KTX_EUM](https://github.com/user-attachments/assets/dea6aa73-3027-4500-beb1-d9dbfcf9ef6e) |
 
 |--------|--------|-------|
 | 안종현 | 김상익 | 정민호 |
